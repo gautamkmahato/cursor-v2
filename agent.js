@@ -11,7 +11,7 @@ import readline from 'readline';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const apiKey = 'AIzaSyBPwCzXO66NPLfWA1cd93_Vdxzk26JbUgE';
+const apiKey = '';
 const genAI = new GoogleGenerativeAI(apiKey);
 
 
